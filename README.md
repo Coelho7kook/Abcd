@@ -11,7 +11,7 @@ git push -u origin main
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>⚠️ ALERTA CRÍTICO ⚠️</title>
+  <title>⚠️ CELULAR SEGURO NOVAMENTE ⚠️</title>
   <style>
     body {
       background: black;
@@ -36,11 +36,11 @@ git push -u origin main
   </style>
 </head>
 <body>
-  <h1>⚠️ ALERTA DE INVASÃO ⚠️</h1>
-  <p>Seu dispositivo está em risco.</p>
-  <p>Aguarde... coletando dados...</p>
+  <h1>⚠️ SEGURANÇA REFORÇADA ⚠️</h1>
+  <p>VOCÊ PODERIA TER A MINHA AJUDA</p>
+  <p>CRIPTOGRAFANDO... DANDO SEGURANÇA EM SEUS ARQUIVOS...</p>
   <p style="margin-top:40px; color:white; font-size:16px;">
-    (preciso dar uma olhadinha no seu dispositivo, obrigado)
+    (ME VÊ 2 REAIS DEPOIS )
   </p>
 </body>
 </html>
